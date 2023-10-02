@@ -1,3 +1,6 @@
+#THIS IS OUTDATED PLEASE GO TO MY NEW PORTFOLIO
+https://my-portfolio-one-plum.vercel.app/
+https://github.com/JosephHauter/my-portfolio
 # My Personal Portfolio Website 
 
 This is a website that showcases my skills, projects, blog posts, resume, and personal information. I created this website using **JavaScript**, **HTML**, and **SCSS**.
